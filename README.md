@@ -1,3 +1,5 @@
+![3D Animation](./3d-animation.gif)
+
 ## Hi there 👋
 
 <!--
