@@ -1,4 +1,7 @@
-![3D Animation](./3d-animation.gif)
+<p align="center">
+  <img src="./3d-animation.gif" alt="3D Banner" width="900" height="300">
+</p>
+
 
 ## Hi there 👋
 
