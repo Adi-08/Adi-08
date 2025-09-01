@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./3d-animation.gif" alt="3D Banner" width="900" height="300">
+  <img src="./Aditya Salunke.jpg" alt="Aditya Salunke Banner" width="100%" />
 </p>
+
 
 
 ## Hi there 👋
