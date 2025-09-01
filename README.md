@@ -4,19 +4,25 @@
 
 
 
-## Hi there 👋
+## 👋 Welcome to My GitHub!
 
-<!--
-**Adi-08/Adi-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 👋 About Me  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Pursuing **B.E. in Artificial Intelligence & Data Science** (Graduating 2027)  
+- 🤖 **Aspiring Data Scientist** passionate about AI, Machine Learning, and Data-Driven Solutions  
+- 💡 Built innovative projects like:  
+            - 🏠 **IoT Smart Home Automation & Energy Consumption Tracker**  
+            - 🍽️ **QR-based Dine-In System** – Digital ordering system for restaurants  
+- 💻 Skilled in **Python, Data Analysis, IoT Development, and Cloud Integration**  
+- 🚀 Currently learning **Machine Learning, Statistics, and Data Visualization**  
+- 🌐 Active in communities like **GeeksforGeeks Campus Chapter**  
+- ⚡ Outside tech: I enjoy **archery, biking, and exploring new technologies**  
+
+## ✨ Key Highlights  
+
+| 🚀 Projects | 📚 Skills | 🌐 Community | 🎯 Interests |
+|-------------|-----------|--------------|--------------|
+| QR-based Dine-In System | Python, Data Analysis | GFG Campus Chapter | Archery |
+| IoT Smart Home Automation | Machine Learning, Statistics | Peer Learning | Sport Biking |
+| Energy Consumption Tracker | Data Visualization, AI/DS | Collaboration | Innovation |
