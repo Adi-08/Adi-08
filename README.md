@@ -71,19 +71,40 @@
 - Scan a table's unique QR code to access menus, place orders, and pay—all from your phone.  
 - Provides a contactless dining experience that saves time and increases efficiency for restaurants.
 
-📌 [View Repository](https://github.com/Adi-08/Menu-Insight)
+📌 [![Menu Insight](https://img.shields.io/badge/GitHub-Menu--Insight-000?style=for-the-badge&logo=github)](https://github.com/Adi-08/Menu-Insight)
 
 ---
 
-### 💡 IoT Smart Home Automation & Energy Tracker  
+###  🏠 IoT Project — Smart Home Automation & Energy Consumer Tracker  
 <p align="center">
   <img src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/NodeMCU-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
-</p>  
-🔹 Home appliances controlled via NodeMCU & relays.  
-🔹 Monitors **energy consumption** with PZEM004T sensor.  
-🔹 Real-time data logging in **Google Sheets** for analysis.  
+</p>
 
-📌 [View Repository](https://github.com/your-username/Smart-Home-Energy-Tracker)  
+- A smart switchboard using NodeMCU and relays, with real-time energy monitoring via PZEM004T.  
+- Logs power usage to **Google Sheets** for easy tracking and analytics.  
+- Helps in optimizing energy consumption and enables future smart home enhancements.
+
+📌[![IoT Project](https://img.shields.io/badge/GitHub-IoT--Project-000?style=for-the-badge&logo=github)](https://github.com/Adi-08/IoT-Project)
+
+
+## 📊 Top Languages  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adi-08&layout=compact&theme=radical)
+
+---
+
+## 📬 How to Reach Me  
+
+[![Email](https://img.shields.io/badge/Email-adityassalunke2004@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityassalunke2004@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Salunke-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya-salunke-08124s)  
+[![Instagram](https://img.shields.io/badge/Instagram-_adi_08__-purple?style=for-the-badge&logo=instagram)](https://instagram.com/_adi_08__)  
+
+
+## 🤝 Let's Connect!  
+
+Eager to take on new challenges and contribute to transformative projects.  
+I’m excited to connect with like-minded professionals.  
+Let’s collaborate and build something great together! 🚀  
 
