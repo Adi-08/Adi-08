@@ -27,6 +27,16 @@
 | IoT Smart Home Automation | Machine Learning, Statistics | Peer Learning | Sport Biking |
 | Energy Consumption Tracker | Data Visualization, AI/DS | Collaboration | Innovation |
 
+<div align="center">
+
+<h1>✨ Keep Learning, Keep Building ✨</h1>  
+
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+</div>
+
+
+
 ## 🚀 Skills  
 
 ### 💻 Programming Languages  
