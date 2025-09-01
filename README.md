@@ -61,17 +61,17 @@
 
 ## 🌟 Featured Projects  
 
-### 🍴 QR-Based Dine-In System  
+### 🍴 Menu Insight — QR-Based Dine-In System  
 <p align="center">
-  <img src="https://img.shields.io/badge/IoT-00ADD8?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebApp-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>  
-🔹 Customers can scan a QR code at restaurants to view the menu and place orders digitally.  
-🔹 Orders are sent directly to the kitchen dashboard for efficient processing.  
-🔹 Built with **HTML, CSS, JS, Firebase**.  
+  <img src="https://img.shields.io/badge/QR-Based–Ordering-00ADD8?style=for-the-badge&logo=qr-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web–Frontend-4285F4?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backend–Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
 
-📌 [View Repository](https://github.com/your-username/QR-DineIn-System)  
+- Scan a table's unique QR code to access menus, place orders, and pay—all from your phone.  
+- Provides a contactless dining experience that saves time and increases efficiency for restaurants.
+
+📌 [View Repository](https://github.com/Adi-08/Menu-Insight)
 
 ---
 
