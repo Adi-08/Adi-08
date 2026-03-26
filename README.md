@@ -1,16 +1,14 @@
 <div align="center">
 
-# Aditya Salunke
+# 👨🏻‍💻Aditya Salunke
 
-**AI & Data Science Engineering Student · Pune, India**
+**GeeksForGeeks Campus Mantri**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adi8124/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adityassalunke2004@gmail.com)
 
 
-<br/>
 
-<!-- Project preview cards at the top -->
 
 </div>
 
@@ -60,13 +58,11 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adi-08&show_icons=true&theme=default" height="150"/>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Adi-08&show_icons=true&theme=default&hide_border=true&include_all_commits=true)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adi-08&layout=compact&theme=default&hide_border=true)
-
-</div>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adi-08&layout=compact&theme=default" height="150"/>
+</p>
 
 ---
 
