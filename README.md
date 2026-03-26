@@ -1,120 +1,75 @@
-<p align="center">
-  <img src="./Aditya Salunke.jpg" alt="Aditya Salunke Banner" width="100%" />
-</p>
-
-
-
-## 👋 Welcome to My GitHub!
-
-
-## 🤖 About Me  
-
-- 🎓 Pursuing **B.E. in Artificial Intelligence & Data Science** (Graduating 2027)  
-- 🤖 **Aspiring Data Scientist** passionate about AI, Machine Learning, and Data-Driven Solutions  
-- 💡 Built innovative projects like:  
-            - 🏠 **IoT Smart Home Automation & Energy Consumption Tracker**  
-            - 🍽️ **QR-based Dine-In System** – Digital ordering system for restaurants  
-- 💻 Skilled in **Python, Data Analysis, IoT Development, and Cloud Integration**  
-- 🚀 Currently learning **Machine Learning, Statistics, and Data Visualization**  
-- 🌐 Active in communities like **GeeksforGeeks Campus Chapter**  
-- ⚡ Outside tech: I enjoy **archery, biking, and exploring new technologies**  
-
-## ✨ Key Highlights  
-
-| 🚀 Projects | 📚 Skills | 🌐 Community | 🎯 Interests |
-|-------------|-----------|--------------|--------------|
-| QR-based Dine-In System | Python, Data Analysis | GFG Campus Chapter | Archery |
-| IoT Smart Home Automation | Machine Learning, Statistics | Peer Learning | Sport Biking |
-| Energy Consumption Tracker | Data Visualization, AI/DS | Collaboration | Innovation |
-
 <div align="center">
 
-<h1>✨ Keep Learning, Keep Building ✨</h1>  
+# Aditya Salunke
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+**AI & Data Science Engineering Student · Pune, India**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adi8124/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adityassalunke2004@gmail.com)
+
+
+<br/>
+
+<!-- Project preview cards at the top -->
 
 </div>
 
+---
 
+### About
 
-## 🚀 Skills  
+- Experienced in Machine Learning, Data Analytics, SQL, and Python  
+- Built AI-powered projects and data visualization dashboards  
+- Well-versed in database management and extracting insights from data  
+- Interested in leveraging AI and Data Science to address real-world use cases  
 
-### 💻 Programming Languages  
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-</p>
+### 🛠 Tech Stack
 
-### 🛠️ Tools & Platforms  
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-</p>
+**Languages & Core**
 
-### 🗄️ Databases  
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+[![Skills](https://skillicons.dev/icons?i=python,cpp,java,c)](https://skillicons.dev)
 
-</p>
+**Web & App**
 
-### ☁️ Cloud & Deployment  
-<p align="center">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+[![Skills](https://skillicons.dev/icons?i=html,css,js,androidstudio)](https://skillicons.dev)
 
-</p>
+**Data & ML**
 
+[![Skills](https://skillicons.dev/icons?i=sklearn,jupyter,anaconda)](https://skillicons.dev)
 
-## 🌟 Featured Projects  
+**Tools & Cloud**
 
-### 🍴 Menu Insight — QR-Based Dine-In System  
-<p align="center">
-  <img src="https://img.shields.io/badge/QR-Based–Ordering-00ADD8?style=for-the-badge&logo=qr-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web–Frontend-4285F4?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Backend–Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
-
-- Scan a table's unique QR code to access menus, place orders, and pay—all from your phone.  
-- Provides a contactless dining experience that saves time and increases efficiency for restaurants.
-
-📌 [![Menu Insight](https://img.shields.io/badge/GitHub-Menu--Insight-000?style=for-the-badge&logo=github)](https://github.com/Adi-08/Menu-Insight)
+[![Skills](https://skillicons.dev/icons?i=git,github,vscode,arduino,mysql,firebase)](https://skillicons.dev)
 
 ---
 
-###  🏠 IoT Project — Smart Home Automation & Energy Consumer Tracker  
-<p align="center">
-  <img src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NodeMCU-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
-</p>
+### 🚀 Projects
 
-- A smart switchboard using NodeMCU and relays, with real-time energy monitoring via PZEM004T.  
-- Logs power usage to **Google Sheets** for easy tracking and analytics.  
-- Helps in optimizing energy consumption and enables future smart home enhancements.
+<div align="center">
 
-📌[![IoT Project](https://img.shields.io/badge/GitHub-IoT--Project-000?style=for-the-badge&logo=github)](https://github.com/Adi-08/IoT-Project)
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🏠 **[IoT Smart Home](https://github.com/Adi-08/IoT-Project)** | Wi-Fi controlled smart switchboard with real-time energy monitoring via PZEM004T sensor. Logs power data to Google Sheets automatically | `NodeMCU` `Arduino` `Google Sheets API` `PZEM004T` |
+| 📊 **[Amazon Sales Dashboard](https://github.com/Adi-08/Amazon-Sales-Dashboard)** | Interactive Power BI dashboard analysing Amazon sales data — covers pricing strategy, discount impact, customer ratings, and product category insights | `Power BI` `Power Query` `DAX` `Kaggle` |
+| 🏡 **[Smart Tembhurni](https://smarttembhurni.com)** | Official government portal for Tembhurni Grampanchayat (Maharashtra) — built under the CM Samruddha Panchayat Raj Abhiyan for transparent rural governance. Covers citizen services, finance, schemes, and announcements | `HTML` `CSS` `JavaScript` `Govt. Portal` |
+| 🍴 **[Menu Insight](https://github.com/Adi-08/Menu-Insight)** | Contactless QR-based dine-in system — scan a table code to browse the menu, place orders, and pay from your phone | `HTML` `CSS` `JavaScript` `Firebase` |
 
-
-## 📊 Top Languages  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adi-08&layout=compact&theme=radical)
+</div>
 
 ---
 
-## 📬 How to Reach Me  
+### 📊 GitHub Stats
 
-[![Email](https://img.shields.io/badge/Email-adityassalunke2004@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityassalunke2004@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Salunke-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya-salunke-08124s)  
-[![Instagram](https://img.shields.io/badge/Instagram-_adi_08__-purple?style=for-the-badge&logo=instagram)](https://instagram.com/_adi_08__)  
+<div align="center">
 
+![Stats](https://github-readme-stats.vercel.app/api?username=Adi-08&show_icons=true&theme=default&hide_border=true&include_all_commits=true)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adi-08&layout=compact&theme=default&hide_border=true)
 
-## 🤝 Let's Connect!  
+</div>
 
-Eager to take on new challenges and contribute to transformative projects.  
-I’m excited to connect with like-minded professionals.  
-Let’s collaborate and build something great together! 🚀  
+---
 
+<div align="center">
+<sub>Open to collaborations, internships, and interesting problems. Let's build something useful.</sub>
+</div>
